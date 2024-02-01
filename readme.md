@@ -20,7 +20,7 @@
 6) Postman collection 
 
 # postman collection link
-https://api.postman.com/collections/32681442-7c667194-12d0-40e6-82c8-0aa94c61f9aa?access_key=PMAT-01HNJJFGE2AY0ZDY38R63PENMG
+(provided in mail )
 
 
 
